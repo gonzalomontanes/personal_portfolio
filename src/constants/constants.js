@@ -18,9 +18,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey in the field of design.', },
-  { year: 2018, text: 'Introduced myself to UX design and started working on it full-time.', },
+  { year: 2016, text: 'Started my journey in the field of design.', },
+  { year: 2017, text: 'Introduced myself to UX design and started working in the field.', },
   { year: 2019, text: 'Moved to China and solidified my experience in UX/UI at Shanghai Huiguo Tech. & Ed. and Suzhou Solonia Trading.', },
-  { year: 2020, text: 'Continued working remotely from Spain, after the outbreak of Covid-19.', },
   { year: 2021, text: 'Obtained a position as UX designer in 5F Software, and moved to Germany, while furthering my knowledge in Dataviz, Voice UI and Product Management.', },
 ];
