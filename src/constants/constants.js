@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: 'Programming',
-    description:"My Github profile hosts over 10 repositories of code which show how, parallel to my design activities, I continuously improve my skills in programming.",
+    description:"My Github profile hosts repositories of code which show how, parallel to my design activities, I continuously improve my skills in programming.",
     image: '/images/2.png',
     tags: ['HTML', 'CSS','Javascript', 'React', 'Chart', 'Node', 'D3',],
     visit: 'https://github.com/gonzalomontanes',
