@@ -22,10 +22,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             tools like Figma and Adobe XD <br />
-            and extensive experience in all phases of User Research and UX Design. <br />
-            <br />
-            <br />
-            <br />
+            and extensive experience in all phases of User Research and UX Design.
           </ListParagraph>
         </ListContainer>
       </ListItem>
